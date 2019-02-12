@@ -5,10 +5,15 @@
 body {
   margin: 0;
   font-family: "Hiragino Kaku Gothic ProN";
+  background-color: skyblue;
 }
 
 a {
   text-decoration: none;
+}
+
+.main {
+  width: 100%;
 }
 
 .container {
@@ -21,7 +26,7 @@ a {
   padding: 180px 0 100px 0;
   background-image: url(top.png);
   background-size: cover;
-  color: white;
+  color: rgba(34,49,52,.9);
   text-align: center;
 }
 
@@ -91,6 +96,7 @@ header {
 
 .header-left {
   float: left;
+  color: white;
 }
 
 .header-right {
