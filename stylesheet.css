@@ -22,7 +22,7 @@ a {
 }
 
 header {
-  height: 150px;
+  height: 100px;
   width: 100%;
   background-color: rgba(34,49,52,0.9);
   position :fixed;
@@ -31,9 +31,9 @@ header {
 }
 
 .logo {
-  width: 200px;
+  width: 150px;
   margin: 30px 0 20px 50px;
-  font-size: 50px;
+  font-size: 30px;
 }
 
 .header-left {
